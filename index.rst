@@ -2,6 +2,8 @@
 
 **This is a DRAFT / Ceci est un BROUILLON.**
 
+----
+
 Linux Presentation Day France
 =============================
 
