@@ -3,7 +3,7 @@
 Mentions légales
 ================
 
-Le site capitoledulibre.org est hébergé en France, par l'association
+Le site linux-presentation-day.fr est hébergé en France, par l'association
 `tetaneutral.net <http://tetaneutral.net/>`__:
 
 ::
