@@ -1,15 +1,15 @@
 html {background-color:#dfdfdf;}
 
 body {
-margin-left:auto;
-margin-right:auto;
-max-width:960px;
-font-family:sans-serif;
-color:#444;
-background-color:#fff;
-padding:1em;
-border-radius:4px;
-box-shadow: 2px 2px 0px rgba(95, 95, 95, 0.1);
+  margin-left:auto;
+  margin-right:auto;
+  max-width:960px;
+  font-family:sans-serif;
+  color:#444;
+  background-color:#fff;
+  padding:1em;
+  border-radius:4px;
+  box-shadow: 2px 2px 0px rgba(95, 95, 95, 0.1);
 }
 
 body>div.document>img {
@@ -51,4 +51,17 @@ dt {
   font-style: italic;
   margin-top: 1em;
   margin-bottom: 0.5em;
+}
+
+.main-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  padding-left: 0;
+  list-style: none;
+}
+.main-nav li {
+  padding: 5px 10px;
+  margin-right: 5px;
+  background-color: #EFEFEF;
 }
