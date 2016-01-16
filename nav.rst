@@ -8,7 +8,7 @@
 
 .. class:: main-nav
 
-* `Accueil <home>`_
+* `Accueil <index.html>`_
 * `Participer <participer.html>`_
 
 .. _home: index.html
