@@ -19,7 +19,7 @@ Partout dans le monde.
 Qu’est-ce que c’est ?
 ---------------------
 
-Linux Presentation Day (ou LPD) est l'occasion de découvrir Linux et les logiciels libres. Un grand nombre de groupes d’utilisateurs de Linux (GUL) du monde organise deux fois par an, le même jour, une rencontre et présentation de Linux et du logiciel libre.
+Linux Presentation Day (ou LPD) est l'occasion de découvrir Linux et les logiciels libres. Un grand nombre de groupes d’utilisateurs de Linux (GUL) du monde, ainsi que des entreprises, universitées organisent deux fois par an, le même jour, une rencontre et présentation de Linux et du logiciel libre.
 
 Le prochain Linux Presentation Day aura lieu le **Samedi 30 avril 2016**.
 
