@@ -25,6 +25,7 @@ Permettre de créer de nouveau LUG
   Certaines villes n’ont pas de LUG ou ces derniers sont quasiment innactifs, un événement de ce type peut amener la création de nouveaux LUG.
 
 ----
+
 **traduction en vrac**
 
 Quelque chose de simple
