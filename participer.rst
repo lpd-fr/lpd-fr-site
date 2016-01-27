@@ -5,6 +5,8 @@
 Participer au Linux Presentation Day
 ====================================
 
+**Cette page est en construction / This page is under-construction**
+
 Linux Presentation Day (ou LPD) est un événement à grande échelle qui a pour but de promouvoir Linux et les logiciels libres auprès du grand public.
 
 Pourquoi ?
@@ -55,11 +57,13 @@ Comment participer ?
 Si vous êtes un GUL, une université, une entreprise et que vous avez prévu de participer à la journée : 
 
 * Ajoutez votre événement sur l’Agenda du Libre en utilisant le tag *LPD-2016.1* ;
-* Inscrivez-vous sur la liste de discussion lpd-fr ici pour venir partager avec les autres événements qui ont lieu en France.
+* Inscrivez-vous sur la liste de discussion `lpd-fr`_ ici pour venir partager avec les autres événements qui ont lieu en France.
 
 Si vous souahaitez participer mais vous ne savez pas trop comment vous y prendre :
 
-* Inscrivez vous sur la liste de discussion lpd-fr ici et venez poser vos questions.
+* Inscrivez vous sur la liste de discussion `lpd-fr`_ et venez poser vos questions.
+
+.. _lpd-fr: <http://toulibre.org/cgi-bin/mailman/listinfo/lpd-fr>
 
 Si vous souhaitez juste poser des questions sans vous inscrire, vous pouvez envoyer un mail à questions arobase linux-presentation-day.fr.
 
