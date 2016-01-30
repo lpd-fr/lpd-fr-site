@@ -1,3 +1,5 @@
+@import "knacss.css";
+
 html {background-color:#dfdfdf;}
 
 body {
@@ -12,21 +14,8 @@ body {
   box-shadow: 2px 2px 0px rgba(95, 95, 95, 0.1);
 }
 
-body>div.document>img {
-display: block;
-    margin-left: auto;
-    margin-right: auto
-}
-
-body>img {
-display: block;
-    margin-left: auto;
-    margin-right: auto
-}
-
-table {
-border-collapse: collapse;
-line-height: 1.42857;
+.section {
+  margin-top: 1em;
 }
 
 table > tbody> tr:hover, table > tbody> tr:nth-child(2n):hover {
@@ -38,13 +27,6 @@ table > tbody> tr:nth-child(2n) {
 background-color:#eaeaea;
 }
 
-table > tbody> tr > td {
-    padding: 8px;
-    line-height: 1.42857;
-    vertical-align: top;
-	border-top: 1px solid #DDD;
-}
-
 dt {
   font-weight: bold;
   font-size: 1.25em;
@@ -54,9 +36,6 @@ dt {
 }
 
 .main-nav {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: left;
   padding-left: 0;
   list-style: none;
 }
@@ -64,4 +43,10 @@ dt {
   padding: 5px 10px;
   margin-right: 5px;
   background-color: #EFEFEF;
+}
+
+.highlight > div {
+  padding: 15px;
+  background-color: #F8F8F8;
+  margin-top: 1em;
 }

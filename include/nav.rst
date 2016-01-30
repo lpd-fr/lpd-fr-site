@@ -6,7 +6,7 @@
 
 *Une journée pour découvrir et essayer Linux*
 
-.. class:: main-nav
+.. class:: main-nav flex-container
 
 * `Accueil <index.html>`_
 * `Participer <participer.html>`_
