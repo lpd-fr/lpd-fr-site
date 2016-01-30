@@ -1,4 +1,4 @@
-.. include:: nav.rst
+.. include:: include/nav.rst
 
 Mentions légales
 ================
@@ -22,4 +22,4 @@ Ce site est édité par l'association `Toulibre <http://toulibre.org/>`__:
     31500 Toulouse
 
 
-.. include:: footer-nav.rst
+.. include:: include/footer-nav.rst

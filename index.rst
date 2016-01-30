@@ -1,6 +1,6 @@
 .. Utilisation : rst2html --stylesheet=main.css --title="Linux Presentation Day France" inde    x.rst > index.html
 
-.. include:: nav.rst
+.. include:: include/nav.rst
 
 Linux Presentation Day France
 =============================
@@ -34,4 +34,4 @@ En France, les GUL suivants ont annoncé leur participation :
 Si vous souhaitez organiser une rencontre autour de Linux lors du Linux Presentation Day, retrouvez `toutes les informations pour participer <participer.html>`_.
 
 
-.. include:: footer-nav.rst
+.. include:: include/footer-nav.rst

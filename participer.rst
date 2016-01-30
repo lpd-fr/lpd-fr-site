@@ -1,6 +1,6 @@
 .. Utilisation : rst2html --stylesheet=main.css --title="Linux Presentation Day France - Participer" participer.rst > participer.html
 
-.. include:: nav.rst
+.. include:: include/nav.rst
 
 Participer au Linux Presentation Day
 ====================================
@@ -10,6 +10,26 @@ Participer au Linux Presentation Day
 Linux Presentation Day (ou LPD) est un événement à grande échelle qui a pour but de promouvoir Linux et les logiciels libres auprès du grand public.
 
 L’idée d’organiser un événement de manière synchronisée sur l’ensemble de l’Europe a été initiée par le groupe d’utilisatrices et d’utilisateurs de Linux berlinois (BeLUG), afin de faire connaître et découvrir Linux et les logiciels libres à un large public et d’éveiller l’attention des médias.
+
+
+
+.. class:: col
+
+Qui ?
+------
+
+GUL, clubs informatiques et/ou étudiants, mais aussi bibliothèques, fablabs, tiers-lieux, écoles, ...
+
+Pourquoi ?
+----------
+
+C'est l'occasion de toucher un plus large public, avec une visibilité des média non spécialisés.
+
+Comment ?
+----------
+
+En organisant une présentation le 30 avril. Trouvez de l'aide sur la liste de discussion `lpd-fr`_.
+
 
 Les objectifs
 ----------------
@@ -77,4 +97,4 @@ Si vous souahaitez participer mais vous ne savez pas trop comment vous y prendre
 
 Si vous souhaitez juste poser des questions sans vous inscrire, vous pouvez envoyer un mail à questions arobase linux-presentation-day.fr.
 
-.. include:: footer-nav.rst
+.. include:: include/footer-nav.rst
