@@ -82,6 +82,6 @@ Si vous souahaitez participer mais vous ne savez pas trop comment vous y prendre
 
 .. _lpd-fr: <http://toulibre.org/cgi-bin/mailman/listinfo/lpd-fr>
 
-Si vous souhaitez juste poser des questions sans vous inscrire, vous pouvez envoyer un mail à questions arobase linux-presentation-day.fr.
+Si vous souhaitez juste poser des questions sans vous inscrire, vous pouvez envoyer un mail à fr arobase linux-presentation-day.org.
 
 .. include:: include/footer-nav.rst
