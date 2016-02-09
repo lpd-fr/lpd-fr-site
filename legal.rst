@@ -1,4 +1,6 @@
-.. include:: include/nav.rst
+
+.. raw:: html
+  :file: include/top.html
 
 Mentions légales
 ================

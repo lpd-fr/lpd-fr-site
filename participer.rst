@@ -1,6 +1,7 @@
 .. Utilisation : rst2html --stylesheet=main.css --title="Linux Presentation Day France - Participer" participer.rst > participer.html
 
-.. include:: include/nav.rst
+.. raw:: html
+  :file: include/top.html
 
 Participer au Linux Presentation Day
 ====================================
